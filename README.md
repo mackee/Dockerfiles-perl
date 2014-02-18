@@ -4,7 +4,7 @@ Dockerfiles-perl
 Docker images with perl interpreter
 
 - using [Perl-Build](https://github.com/tokuhirom/Perl-Build "Perl-Build")
-- installed [App::cpanminus](http://metacpan.org//App::cpanminus "App::cpanminus")
+- installed [App::cpanminus](http://metacpan.org/pod/App::cpanminus "App::cpanminus")
 
 # how to build
 
